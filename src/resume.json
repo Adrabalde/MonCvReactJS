@@ -1,0 +1,111 @@
+
+{
+  "basics": {
+    "name": "Abdourahamane BALDE",
+    "label": "Full-Stack Déveloper",
+    "picture": "https://www.facebook.com/",
+    "email": "baldeabdoun@gmail.com",
+    "phone": "none",
+    "website": "https://www.linkedin.com/feed/",
+    "summary": "Développeur Full-Stack cherchant à travailler en étroite collaboration avec une équipe très motivée pour appliquer son expérience de développement Web en tirant parti des technologies nouvelles et existantes et en mettant en œuvre des solutions efficaces",
+    "location": {
+      "address": "NO Street addres",
+      "postalCode": "94360",
+      "city": "Bry-Sur-Marne",
+      "countryCode": "FR",
+      "region": "île de France"
+    },
+    "profiles": [{
+      "network": "gitHub",
+      "username": "Adrabalde",
+      "url": "https://github.com/"
+    }]
+  },
+  "work": [{
+    "company": "A la recherche d'un contrat d'apprentissage dans le développement web pour une durée de deux ans et disponible à partir de septembre 2021.",
+    "courant": true,
+    "position": "Full-Stack Developer",
+    "website": "https://github.com/",
+    "startDate": "Disponible à partir de septembre 2021",
+    "endDate": "September 2023",
+    "summary": "J'envisage devenir développeur web full-stack dans une entreprise pour un contrat d'apprentissage de deux ans",
+    "highlights": [
+      "Je suis à la recherche d'un contrat d'apprentissage en développement web full-stack"
+    ]},
+    {
+    "company": "En recherche",
+    "current": false,
+    "position": "Full-Stack Developer",
+    "website": "https://www.linkedin.com/feed/",
+    "startDate": "Disponible à partir de septembre 2021",
+    "endDate": "September 2023",
+    "summary": "A la recherche d'une entreprise dans le développement web full-stack à partir de septembre 2021",
+    "highlights": [
+      "Connaissances en HTML5 / CSS3 / JavaScript / SQL / react JS / python / framework Django / Java / R / SAS / Qt Creator / Git / GitHub . "
+    ]}, 
+    {
+    "company": "A la recherche d'un contrat d'apprentissage ",
+    "current": false,
+    "position": "Développeur web full-stack ",
+    "website": "https://www.linkedin.com/feed/",
+    "startDate": "Septembre 2021",
+    "endDate": "Septembre 2023",
+    "summary": "Développeur web",
+    "highlights": [
+      "Motivé, Rigoureux, volontaire, ambitieux , patient, curieux, j'aime apprendre, j'apprends vite."
+    ]},
+    {
+    "company": "Actuellement étudiant à l'Université Paris Nanterre",
+    "current": false,
+    "position": "Etudiant",
+    "website": "https://www.parisnanterre.fr/portail-institutionnel-693762.kjsp",
+    "startDate": "Septembre 2018",
+    "endDate": "En cours",
+    "summary": "Développement d'un front-end responsive pour les Instituts des Hautes Etudes à fin de faciliter l'usage du site pour les visiteurs.",
+    "highlights": [
+      "Développement d'un site web en python avec Django pour la gestion des étudiants pour permettre d'inscrire un étudiant, modifier les informations d'un étudiant, supprimer un étudiant, importation et exportation d'un fichier csv et attribution d'un étudiant à un groupe."
+    ]}
+  ],
+  
+  "education": [{
+    "institution": "Université Paris Nanterre",
+    "area": "MIAGE",
+    "studyType": "Licence 3",
+    "startDate": "2018",
+    "endDate": "2021",
+    "courses": [
+      "MIAGE ( Méthodes informatiques appliquées à la gestion des entreprises"
+    ]
+  }],
+ 
+  "skills": {
+    "name": "Web Development",
+    "level": "Mid-Level",
+    "keywords": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "SQL",
+      "React JS",
+      "React Router",
+      "Python",
+      "Django",
+      "Java",
+      "SAS",
+      "R",
+      "Git",
+      "GitHub"
+
+    ]
+  },
+  "languages": [{
+    "name": "English",
+    "level": "Niveau intermédiaire"
+    
+  }],
+  
+  "references": [{
+    "name": "Fait réference aux grands développeurs",
+    "reference": "Reference..."
+  }]
+}
